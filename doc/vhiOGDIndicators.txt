@@ -1,0 +1,51 @@
+Clinical Indications for an upper G.I. endoscopy, procedure code 194, are listed below.
+
+No Consultant or hospital benefits are payable for a repeat upper G.I. endoscopy within a 12 month period except for those clinical indications listed below as "Repeat endoscopy".
+
+New clinical indications unrelated to the indications(s) for an earlier endoscopy within the 12 month period, themselves identified indication(s) for endoscopy, will not be excluded by a prior endoscopy.
+
+No Consultant or hospital benefits are payable for a surveillance upper G.I. endoscopy except for those clinical indications listed below as "Surveillance endoscopy".
+
+Procedure code 194 is not claimable in conjunction with procedure codes 198, 202 or 271.
+Ind. Code	Clinical Indicators
+692	a) Initial endoscopy: Upper abdominal/Oesophageal reflux symptoms that persist in patients that have been tested and received treatment for Helicobacter pylori
+693	b) Initial endoscopy: Upper abdominal symptoms or signs suggesting organic disease in patients > 45 years old
+694	c) Initial endoscopy: Dysphagia or Odynophagia
+695	d) Initial endoscopy: Upper abdominal/Oesophageal reflux symptoms that are persistent or recurrent in patients who have been treated with a trial of PPIs for 6 weeks or more
+696	e) Initial endoscopy: Persistent vomiting of unknown cause
+697	f) Initial endoscopy: Biopsy for suspected coeliac disease
+698	g) Initial endoscopy: Other diseases in which the presence of upper GI pathologic conditions might modify other planned management (i.e. patients who have a history of ulcer or GI bleeding who are scheduled for organ transplantation, long term anti-coagulation or long-term non-steroidal anti-inflammatory drug therapy for arthritis, and those with cancer of the head and neck)
+712	h) Initial endoscopy: For confirmation and specific histological diagnosis of radiologically demonstrated suspected or suspected upper GI tract lesion
+701	i) Initial endoscopy: Patients with active/recent GI bleeding
+713	j) Initial endoscopy: Iron deficiency anaemia
+702	k) Initial endoscopy: Patients with suspected portal hypertension to document or treat oesophageal varices
+703	l) Initial endoscopy: To assess acute injury after caustic ingestion
+704	m) Initial endoscopy: Treatment of bleeding lesions such as ulcers, tumours, vascular abnormalities (e.g. electro-coagulation, heater probe, laser photocoagulation, or injection therapy)
+709	n) Initial endoscopy: Further investigation of suspected achalasia
+808	o) Initial endoscopy: Pernicious Anaemia: Benefit will be provided for a single endoscopy
+782	p) Initial endoscopy: Other exceptional reasons will be considered provided a comprehensive medical report accompanies the claim outlining the medical necessity for the procedure
+620	pa) Initial endoscopy: Unexplained weight loss
+621	pb) Initial endoscopy: Further investigation of an upper abdominal mass
+622	pc) Initial endoscopy: Early satiety
+1	q) Repeat endoscopy: Previously diagnosed Grade D oesophagitis or gastric or oesophageal ulcer: Benefit will be provided for repeat endoscopy to check for healing or to re-biopsy until healed
+809	r) Repeat endoscopy: Patients diagnosed with an atypical (non-H. pylori-associated) or high-risk duodenal ulcer: Benefit will be provided for one repeat endoscopy to re-biopsy (except by report)
+2	s) Repeat endoscopy: Coeliac Disease – re-check for healing 3–12 months after diagnosis (once only)
+4	t) Repeat endoscopy: Monitoring of oesophageal varices in patients with portal hypertension
+5	u) Repeat endoscopy: Stent blockage
+810	v) Repeat endoscopy: Follow up of patients post gastric or oesophageal cancer: Benefit will be provided for endoscopies as clinically indicated
+811	w) Repeat endoscopy: Gastric polyp (except fundic gland polyp): Benefit will be provided for repeat endoscopy at 1 year
+718	x) Repeat endoscopy: Patient with a major bleed in whom the initial gastroscopy failed to identify the source of bleeding
+719	y) Repeat endoscopy: Post treatment of bleeding ulcer or Mallory-Weiss tear
+780	z) Surveillance endoscopy: Barrett’s mucosa (columnar-lined oesophagus) of less than 3 cms without dysplasia on previous endoscopy: Repeat endoscopy every 3 years
+812	za) Surveillance endoscopy: Barrett’s mucosa (columnar-lined oesophagus) of greater than 3 cms without dysplasia on previous endoscopy: Repeat endoscopy every 2 years
+813	zb) Surveillance endoscopy: Barrett's mucosa (columnar-lined oesophagus) with low-grade dysplasia on previous endoscopy: Repeat endoscopy every 6 months until 2 consecutive endoscopies with no dysplasia.
+814	zc) Surveillance endoscopy: Barrett's mucosa (columnar-lined oesophagus) with high-grade dysplasia on previous endoscopy: Repeat endoscopy every 3 months
+930	zcc) Surveillance post endoscopic treatment (RFA/EMA) of Barrett’s oesophagus – Benefit allowed every 3 months
+815	zd) Surveillance endoscopy: Gastric intestinal metaplasia/atrophic gastritis with no dysplasia: Repeat endoscopy every 3 years
+816	ze) Surveillance endoscopy: Gastric intestinal metaplasia/gastric epithelial dysplasia/atrophic gastritis with low-grade dysplasia: Repeat endoscopy at 12 months
+817	zf) Surveillance endoscopy: Gastric intestinal metaplasia/gastric epithelial dysplasia/atrophic gastritis with high-grade dysplasia: Repeat endoscopy at 6 months
+818	zg) Surveillance endoscopy: Familial adenomatous polyposis (FAP): OGD every 2 years starting at age 18 years
+819	zh) Surveillance endoscopy: Peutz-Jeghers syndrome: OGD every 2 years starting at age 18 years
+820	zi) Surveillance endoscopy: Juvenile polyposis: OGD every 3 years starting at age 18 years
+821	zj) Surveillance endoscopy: Lynch Syndrome: OGD every 2 years starting at age 50 years
+822	zk) Surveillance endoscopy: MUTYH-associated polyposis (MAP): OGD every 3 years starting at age 30 years

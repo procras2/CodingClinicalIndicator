@@ -1,0 +1,133 @@
+Initial Gastroscopy
+
+Laya healthcare will provide benefit for an initial upper Gastroscopy,
+procedure procedure code 194 for:
+
+(0001) Suspected treatment failure in patients who remain symptomatic and are
+serologically positive for Helicobacter pylori infection, have received
+treatment with PPIs and where 4 weeks have lapsed following completion of
+treatment
+
+(0002) Presentation with signs or symptoms suggesting serious organic disease
+(e.g. anorexia, weight loss) or in patients with upper abdominal symptoms > 45
+years old
+
+(0003) Dysphagia or odynophagia
+
+(0004) Oesophageal reflux symptoms that are persistent or recurrent despite
+treatment
+
+(0005) Persistent vomiting, unknown aetiology
+
+(0006) Biopsy for suspected coeliac disease after positive tTGA and EMA
+serology testing
+
+(0007) Other diseases in which the presence of upper GI pathology might modify
+treatment options in:
+
+a) those scheduled for organ transplantation who have a history of upper GI
+bleeding, 
+
+b) those on long term anti-coagulation, 
+
+c) those on long-term non-steroidal anti-inflammatory drug therapy for
+arthritis, and 
+
+d) those with cancer of the head and neck
+
+(0008) To confirm and secure histological diagnosis of radiological findings of
+suspected upper gastro-intestinal tract lesions
+
+(0009) GI haemorrhage in patients with active or recent blood loss
+
+(0010) Presumed chronic blood loss: when the clinical situation suggests an
+upper GI bleeding source or when colonoscopy results are negative
+
+(0011) Iron deficiency anaemia
+
+(0012) Pernicious anaemia (further planned endoscopy is on an individual basis
+on the submission of a medical report)
+
+(0013) To assess acute injury after ingestion of a corrosive substance
+
+(0014) Therapeutic management of bleeding lesions such as ulcers, tumours,
+vascular abnormalities (e.g. electro-coagulation, heater probe, laser
+photocoagulation, or injection therapy)
+
+(0015) Diagnosis and further investigation of achalasia
+
+(0016) In exceptional instances where the clinical need is detailed in a
+medical report that accompanies the claim form on submission
+
+
+Repeat Upper GI Endoscopy
+
+Benefit is available for a repeat upper GI endoscopy, procedure code 194, as
+per the following clinical indications:
+
+(0017) Previously confirmed diagnosis of gastric ulcer to check for healing and
+or re-biopsy
+
+(0018) In Helicobacter pylori infection after a first or second treatment
+failure to carry out further susceptibility testing of antimicrobial agents
+
+(0019) Coeliac Disease - in suspected refractory disease, once only. If further
+required, include detail on a medical report accompanying the claim
+
+(0020) Monitoring of oesophageal varices
+
+(0021) Stent blockage
+
+(0022) Gastric polyp, other than those associated with a polyposis syndrome
+
+(0023) Follow-up investigation of those with gastric or oesophageal cancer as
+clinically indicated
+
+(0024) Following a major bleed where the initial gastroscopy failed to identify
+the source of bleeding
+
+(0025) Post treatment of bleeding ulcer or Mallory Weiss tear
+
+Note: New clinical presentation will not be excluded by a prior endoscopy,
+please refer to initial endoscopy clinical indicators and/or submit a detailed
+medical report with the claim.
+
+Surveillance Upper Gastrointestinal Gastroscopy 
+
+No Consultant or hospital benefits are payable for a surveillance upper GI
+endoscopy except for the following clinical indications: 
+
+(0026) Barrett's mucosa shorter than 3cm, without dysplasia on a previous
+endoscopy: benefit is for a surveillance endoscopy every 3 years
+
+(0027) Barrett's mucosa, greater than 3cm, without dysplasia on a previous
+endoscopy: benefit is for a surveillance endoscopy every 2 years
+
+(0028) Barrett's mucosa, with low-grade dysplasia on a previous endoscopy:
+benefit is for a surveillance endoscopy every 6 months until 2 consecutive
+endoscopies have no metaplasia
+
+(0029) Barrett's mucosa, with high-grade dysplasia on a previous endoscopy:
+benefit is for a surveillance endoscopyevery 3 months
+
+(0030) Gastric intestinal metaplasia/gastric epithelial dysplasia/atrophic
+gastritis with low-grade dysplasia: benefit is for a surveillance endoscopy
+every 3 years
+
+(0031) Gastric intestinal metaplasia/gastric epithelial dysplasia/atrophic
+gastritis with high-grade dysplasia: benefit is for a surveillance endoscopy at
+6 months
+
+(0032) Upper GI surveillance for members with Peutz-Jeghers syndrome: benefit
+is for a surveillance endoscopy every 2 years from age 18 years
+
+(0033) Upper GI surveillance for members with Juvenile polyposis: benefit is
+for a surveillance endoscopy every 3 years from age 18 years
+
+(0034) Upper GI surveillance for members with Lynch Syndrome: benefit is for
+surveillance endoscopy every 2 years from age 50 years
+
+(0035) Upper GI surveillance for members with MUTYH bi-allelic carriers:
+benefit will be provided for a 3 yearly gastrointestinal endoscopy from age 30
+years
+

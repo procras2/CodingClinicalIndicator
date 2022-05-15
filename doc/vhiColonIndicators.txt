@@ -1,0 +1,44 @@
+683	a) Initial Colonoscopy: A sustained alteration in bowel habit – either constipation, diarrhoea or alternating constipation and diarrhoea
+684	b) Initial Colonoscopy: Rectal bleeding
+685	c) Initial Colonoscopy: Unexplained anaemia
+686	d) Initial Colonoscopy: Persistent unexplained lower abdominal pain
+687	e) Initial Colonoscopy: Abdominal mass
+688	f) Initial Colonoscopy: Obstructive symptoms
+689	g) Initial Colonoscopy: Abnormal gastrointestinal imaging
+690	h) Initial Colonoscopy: Assessment of geography and severity of colitis
+691	i) Initial Colonoscopy: Tattooing margins of colonic polyp or colonic neoplasm prior to laparoscopic resection
+823	j) Initial Colonoscopy: Investigation of unexplained weight loss
+623	ja) Initial Colonoscopy: Rectal mass
+624	jb) Initial Colonoscopy: Unexplained anal mass or unexplained anal ulceration
+14	k) Repeat Colonoscopy: Following incomplete polypectomy, where multiple or large adenomas could not be satisfactorily cleared in one endoscopy session
+15	l) Repeat Colonoscopy: Pre-operative assessment of chronic inflammatory bowel disease (IBD)
+16	m) Repeat Colonoscopy: Relapse or flare up of IBD or following change of therapy to assess response
+824	n) Repeat Colonoscopy: Ileo-colonoscopy 6-12 months post resection of Crohn’s disease to assess surgical anastomosis
+17	o) Repeat Colonoscopy: Post-colonic cancer surgery at years 1 and 3 and then every 5 years thereafter
+19	p) Repeat Colonoscopy: Where the patient’s presenting symptoms indicate that a left-sided colonoscopy or sigmoidoscopy/proctoscopy is necessary and where the findings from that procedure suggest the possibility of disease elsewhere in the colon necessitating complete colon examination. The findings are as follow: - Colonic polyps, - Colonic carcinoma, - Inflammatory bowel disease, - Blood-stained mucus or stool coming from beyond the range of a sigmoidoscopy/proctoscopy examination
+20	q) Repeat Colonoscopy: Repeat full colonoscopy when there is unexplained deterioration in symptomatology not explained by left-sided colonoscopy
+21	r) Repeat Colonoscopy: Left-sided colonoscopy to assess disease activity at the time of significant reduction or withdrawal of medication
+22	s) Repeat Colonoscopy: Left-sided colonoscopy at the time of significant symptomatic relapse
+23	t) Repeat Colonoscopy: Left-sided colonoscopy where there is a failure to respond to treatment or where there is suspicion of a second diagnosis such as Clostridium difficile infection with superimposed pseudomembranous colitis
+316	u) Repeat Colonoscopy: Evaluation of an abdominal mass
+783	v) Repeat Colonoscopy: Other exceptional reasons provided a comprehensive medical report accompanies the claim outlining the medical necessity for the procedure e.g. repeat endoscopy recommended on pathology report
+146	w) Surveillance Colonoscopy: Individuals with one first-degree relative diagnosed with colorectal cancer before age of 60 years. Benefit will be provided for colonoscopy before age of 40 years, or 10 years before the age at diagnosis of the youngest affected relative, whichever is the first, and, if normal, repeats at five-yearly intervals
+148	x) Surveillance Colonoscopy: Individuals with a genetic or clinical diagnosis of hereditary non-polyposis colorectal cancer (HNPCC) (Lynch Syndrome): Benefit will be provided for colonoscopy every 12 months beginning at age 20 years, or 10 years before the age at diagnosis of the youngest affected relative in the immediate family
+149	y) Surveillance Colonoscopy: Individuals with one first-degree relative diagnosed with colorectal cancer or an advanced adenoma after the age of 60 years: Benefit will be provided for colonoscopy from age 40 years, or 10 years before the age at diagnosis of the affected relative, whichever is the first, and, if normal, repeats at five-yearly intervals
+825	z) Surveillance Colonoscopy: Individuals with one second-degree relative diagnosed with colorectal cancer before the age of 50: Benefit will be provided for a single colonoscopy at or after age 50 years. No benefit will be paid for repeat colonoscopy unless other indications have been met
+826	za) Surveillance Colonoscopy: Individuals with one first-degree relative with an advanced adenoma before age 60 years or two first degree relatives diagnosed with an advance adenoma at any age. Benefit will be provided for colonoscopy from age 40 years, or 10 years before the age at diagnosis of the youngest affected relative, whichever is the first, and, if normal, repeats at five-yearly interval
+720	zb) Surveillance Colonoscopy: Family history of familial adenomatous polyposis (FAP): Mutation carriers: Benefit will be provided to mutation carriers for yearly colonoscopy alternating with sigmoidoscopy from age 10, unless an adenoma(s) develops in which case benefit will be provided for annual full colonoscopy until polyp load indicates the need for surgery
+731	zc) Surveillance Colonoscopy: Family history of familial adenomatous polyposis (FAP): Where no mutation can be identified, for family members at 50% risk, age 13 – 30 years: Benefit will be provided for colonoscopy alternating with sigmoidoscopy every year up to age 30 years
+733	zd) Surveillance Colonoscopy: Family history of familial adenomatous polyposis (FAP): where no mutation can be identified, for family members at 50% risk, age 30 – 60 years: Benefit will be provided for colonoscopy alternating with sigmoidoscopy every 3 years until age 60 years
+827	ze) Surveillance Colonoscopy: Peutz-Jeghers Syndrome: Colonoscopy every 2 years starting at age 25 years
+828	zf) Surveillance Colonoscopy: Juvenile polyposis: Colonoscopy every 2 years starting at age 15 years
+829	zg) Surveillance Colonoscopy: MUTYH-associated polyposis (MAP): Colonoscopy every 2 years starting at age 25 years
+781	zh) Surveillance Colonoscopy: Adenomas - Low risk adenomas (tubular, 1-2, less than 1cm with low-grade dysplasia) identified on previous colonoscopy: Benefit will be provided for a repeat colonoscopy at 5 years (further endoscopy benefits may be paid if relevant pathology found at repeat colonoscopy)
+830	zi) Surveillance Colonoscopy: Intermediate risk adenomas (3 - 4 small adenomas, or at least one adenoma 10-19mm identified on previous colonoscopy or any adenoma with villous features ir high grade dysplasia. Benefit will be provided for 3-yearly colonoscopies until 2 consecutive negative colonoscopies, then no further colonoscopies
+831	zj) Surveillance Colonoscopy: High risk adenomas (greater than or equal to 5 small or any adenoma greater than or equal to 20mm). Annual colonoscopy until out of this risk group then interval colonoscopy as per intermediate risk group i.e. benefit will be provided for 3-yearly colonoscopy until 2 negative colonoscopies.
+832	zk) Surveillance Colonoscopy: Colonoscopic surveillance for colorectal cancer from 8 years after onset of IBD: Low risk - Benefit will be provided for colonoscopy every 5 years
+833	zl) Surveillance Colonoscopy: Colonoscopic surveillance for colorectal cancer from 8 years after onset of IBD: Intermediate risk, i.e. extensive colitis with mild active disease or post-inflammatory polyps or history of colorectal cancer in a first degree relative aged 50 years or older - Benefit will be provided for colonoscopy every 3 years
+834	zm) Surveillance Colonoscopy: Colonoscopic surveillance for colorectal cancer from 8 years after onset of IBD: High Risk, i.e. extensive colitis with moderate/severe active disease or stricture in past 5 years, or dysplasia in past 5 years, or concurrent primary sclerosing cholangitis, or colorectal cancer in a first degree relative under 50 years old - Benefit will be provided for colonoscopy every year
+835	zn) Surveillance Colonoscopy: Patients with Acromegaly: Benefit will be provided for colonoscopy every 3 years starting at age 40
+836	zo) Surveillance Colonoscopy: Sigmoidoscopy Surveillance: Patients post ureterosigmoidostomy: Benefit will be provided for annual flexible sigmoidoscopy starting 10 years after surgery
+625	zp) Surveillance Colonoscopy: After colon surgery for FAP every 6 months if some rectal tissue remains and every year if all rectal tissue has been removed and there is a small intestinal pouch
