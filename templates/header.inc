@@ -1,4 +1,4 @@
-<?php
+<?php // vim:sw=4 expandtab nu:
 /**
  * Header template file
  *
@@ -23,6 +23,7 @@
   <meta charset="UTF-8">
   <title>Coding Clinical Indicators</title>
   <link rel="stylesheet" href="<?php echo $backref;?>css/style.css">
+  <script src="<?php echo $backref;?>js/script.js" defer></script>
 </head>
 <body>
 

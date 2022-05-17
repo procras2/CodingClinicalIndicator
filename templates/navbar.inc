@@ -1,4 +1,4 @@
-<?php
+<?php // vim: sw=4 expandtab nu:
 /**
  * Navbar template file
  *
@@ -18,12 +18,20 @@
  */
 ?>
 
-<nav>
-  <ul>
-    <li><a href="<?php echo $backref;?>index.php">Home</a></li>
-    <li><a href="<?php echo $backref;?>vhi/index.php">VHI</a></li>
-    <li><a href="<?php echo $backref;?>laya/index.php">Laya</a></li>
-  </ul>
+<nav class="navbar">
+    <div class="brand-title">Clinical Indicators</div>
+    <a href="#" class="toggle-button">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </a>
+    <div class="navbar-links">
+        <ul>
+            <li><a href="<?php echo $backref;?>index.php">Home</a></li>
+            <li><a href="<?php echo $backref;?>vhi/index.php">VHI</a></li>
+            <li><a href="<?php echo $backref;?>laya/index.php">Laya</a></li>
+        </ul>
+    </div>
 </nav>
 
 <b><?php echo $file;?></b>
