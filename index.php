@@ -40,7 +40,7 @@ require 'templates/navbar.inc';
             <li><a href="vhi/colon/surveillance/index.php">Surveillance</a></li>
         </ul>
     </ul>
-    <li><a href="laya/index.html">Laya</a></li>
+    <li><a href="laya/index.php">Laya</a></li>
     <ul>
         <li><a href="laya/ogd/index.php">OGD</a></li>
         <ul>
@@ -49,6 +49,11 @@ require 'templates/navbar.inc';
             <li><a href="laya/ogd/surveillance/index.php">Surveillance</a></li>
         </ul>
         <li><a href="laya/colon/index.php">Colonoscopy</a></li>
+        <ul>
+            <li><a href="laya/colon/initial/index.php">Initial</a></li>
+            <li><a href="laya/colon/repeat/index.php">Repeat</a></li>
+            <li><a href="laya/colon/surveillance/index.php">Surveillance</a></li>
+        </ul>
     </ul>
 </ul>
 

@@ -32,6 +32,11 @@ require $backref . '/templates/navbar.inc';
         <li><a href="ogd/surveillance/index.php">Surveillance</a></li>
     </ul>
     <li><a href="colon/index.php">Colonoscopy</a></li>
+    <ul>
+        <li><a href="colon/initial/index.php">Initial</a></li>
+        <li><a href="colon/repeat/index.php">Repeat</a></li>
+        <li><a href="colon/surveillance/index.php">Surveillance</a></li>
+    </ul>
 </ul>
 
 <?php

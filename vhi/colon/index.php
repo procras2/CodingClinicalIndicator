@@ -9,7 +9,7 @@
  * @category  CategoryName
  * @package   CodingClinicalIndicators
  * @author    Adrian P. Ireland <author@example.com>
- * @copyright 2012 Adrian P. Ireland
+ * @copyright 2022 Adrian P. Ireland
  * @license   http://www.gnu.org/licences/gpl GPL
  * @version   SVN: $Id$
  * @link      http://localhost/~adrian
@@ -26,22 +26,23 @@ require $backref . 'templates/navbar.inc';
 <section class="rules">
   <h3>VHI ground rules for colonoscopy</h3>
   <p>
-  No Consultant or hospital benefits are payable for repeat colonsocopic, proctoscopic
-  or sigmoidoscopic examinations <em>within 36 months</em> of an initial examination
-  except for those clinical indication listed below as
-  <a href="repeat/index.php">"Repeat Colonoscopy"</a>.
+  No Consultant or hospital benefits are payable for repeat colonsocopic,
+proctoscopic or sigmoidoscopic examinations <em>within 36 months</em> of an
+initial examination except for those clinical indication listed below as <a
+href="repeat/index.php">"Repeat Colonoscopy"</a>.
   </p>
 
   <p>
-  New clinical indications unrelated to the indication(s) for an earlier endoscopy
-  <em>within the 36 month period</em>, themselves identified indication(s) for
-  endoscopy, will not be excluded by a prior endoscopy.
+  New clinical indications unrelated to the indication(s) for an earlier
+endoscopy <em>within the 36 month period</em>, themselves identified
+indication(s) for endoscopy, will not be excluded by a prior endoscopy.
   </p>
 
   <p>
-  No Consultant or hospital benefits are payable for a surveillance colonscopic,
-  proctoscopic or sigmoidosccopic examaninations except for those clinical indications
-  listed below as <a href="surveillance/index.php">"Surveillance Colonoscopy"</a>.
+  No Consultant or hospital benefits are payable for a surveillance
+colonscopic, proctoscopic or sigmoidosccopic examaninations except for those
+clinical indications listed below as <a
+href="surveillance/index.php">"Surveillance Colonoscopy"</a>.
   </p>
 
 </section>
