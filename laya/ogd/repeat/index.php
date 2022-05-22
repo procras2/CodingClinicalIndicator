@@ -36,17 +36,6 @@ $table = new LayaOgdRepeat();
 <h2>OGD clinical indicators</h2>
 <h3>Indicator codes for a repeat gastroscopy</h3>
 
-<p>
-    Benefit is available for a repeat upper GI endoscopy, procedure code 194,
-    as per the following clinical indications.
-</p>
-
-<p>
-    <b>Note:</b> New clinical presentation will not be excluded by a prior
-    endoscopy, please refer to <a href="../initial/index.php">initial endoscopy
-    clinical indicators</a> and/or submit a detailed medical report with the claim.
-</p>
-
 <?php
 // Output the html
 $table->outputTable();

@@ -34,4 +34,4 @@
     </div>
 </nav>
 
-<b><?php echo $file;?></b>
+<small><?php echo $file;?></small>

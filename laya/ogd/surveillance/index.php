@@ -35,11 +35,6 @@ $table = new LayaOgdSurveillance();
 <h2>OGD clinical indicators</h2>
 <h3>Surveillance</h3>
 
-<p>
-  No Consultant or hospital benefits are payable for a surveillance upper GI
-  endoscopy except for the following clinical indications: 
-</p>
-
 <?php
 // Output the html
 $table->outputTable();

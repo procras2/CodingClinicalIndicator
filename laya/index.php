@@ -23,7 +23,7 @@ require $backref . '/templates/navbar.inc';
 
 ?>
 <h1>Laya clinical coding indicators</h1>
-<!--  <img src="<?php echo $backref;?>/img/laya-logo.png" alt="Laya logo">-->
+<img src="<?php echo $backref;?>/img/laya-logo-sm.png" alt="Laya logo">
 <ul>
     <li><a href="ogd/index.php">OGD</a></li>
     <ul>

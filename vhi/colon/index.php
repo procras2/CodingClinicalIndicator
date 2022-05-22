@@ -22,8 +22,8 @@ require $backref . 'templates/navbar.inc';
 ?>
 
 <h1>VHI</h1>
-<!--  <img src="<?php echo $backref;?>/img/vhi-logo.png" alt="VHI logo">-->
-<section class="rules">
+<!--<img src="<?php echo $backref;?>/img/colon.png" alt="Colonoscopy">-->
+<section class="colon-rules">
   <h3>VHI ground rules for colonoscopy</h3>
   <p>
   No Consultant or hospital benefits are payable for repeat colonsocopic,

@@ -86,6 +86,17 @@ body {
   background-color : #f5f5f5;
 }
 
+.colon-rules {
+  background-image: url("../img/colon-sm.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.ogd-rules {
+  background-image: url("../img/ogd-sm.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
 /* responsive */
 
 @media(max-width: 500px){

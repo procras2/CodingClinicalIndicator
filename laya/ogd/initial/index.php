@@ -33,10 +33,6 @@ $table = new LayaOgdInitial();
 ?>
 <h1>Laya</h1>
 <h2>OGD clinical indicators</h2>
-<p>
-Laya healthcare will provide benefit for an initial upper Gastroscopy
-procedure code 194 for:
-</p>
 
 <h3>Indicator codes for the initial gastroscopy</h3>
 

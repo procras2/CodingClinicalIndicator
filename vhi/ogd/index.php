@@ -25,7 +25,7 @@ require $backref . 'templates/navbar.inc';
 <h1>VHI</h1>
 <!-- <img src="<?php echo $backref;?>/img/vhi-logo.png" alt="VHI logo"> -->
 
-<section class="rules">
+<section class="ogd-rules">
 
 <h3>VHI ground rules for gastroscopy</h3>
 <p>
