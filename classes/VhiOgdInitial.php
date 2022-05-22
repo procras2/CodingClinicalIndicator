@@ -35,7 +35,7 @@ class VhiOgdInitial extends IndicData
         $this->data[] = $this->addMember(
             692,
             'a',
-            "Upper abdominal/Oesophageal refux symptoms that persist in patients that have been tested and received treatment for <em>Helicobacter pylori</em>"
+            "Upper abdominal/Oesophageal reflux symptoms that persist in patients that have been tested and received treatment for <em>Helicobacter pylori</em>"
         );
 
         $this->data[] = $this->addMember(
