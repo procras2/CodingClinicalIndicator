@@ -10,7 +10,7 @@
  * @category  CategoryName
  * @package   CodingClinicalIndicators
  * @author    Adrian P. Ireland <author@example.com>
- * @copyright 2012 Adrian P. Ireland
+ * @copyright 2022 Adrian P. Ireland
  * @license   http://www.gnu.org/LGPL LGPL
  * @version   SVN: $Id$
  * @link      http://localhost/~adrian
@@ -23,6 +23,7 @@
   <meta charset="UTF-8">
   <title>Coding Clinical Indicators</title>
   <link rel="stylesheet" href="<?php echo $backref;?>css/style.css">
+  <link rel="icon" href="<?php echo $backref;?>img/favicon-16x16.png" type="image/x-icon"/>
   <script src="<?php echo $backref;?>js/script.js" defer></script>
 </head>
 <body>
